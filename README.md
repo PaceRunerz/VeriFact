@@ -144,13 +144,6 @@ VeriFact takes your privacy seriously:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-
-## 📧 Contact & Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/verifact-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/verifact-ai/discussions)
-- **Email**: support@verifact.ai
-
 ## 🗺️ Roadmap
 
 - [ ] Browser extension for real-time verification
