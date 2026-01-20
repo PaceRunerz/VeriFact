@@ -1,0 +1,8 @@
+
+{
+  "name": "VeriFact - AI Fake News Detection",
+  "description": "A high-integrity platform for verifying news credibility using multi-modal AI analysis, URL verification, and real-time grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
