@@ -2,7 +2,7 @@
 export interface User {
   id: string;
   name: string;
-  email: string;           k
+  email: string;           
   photoURL: string;
   iqScore: number;
 }
