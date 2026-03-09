@@ -1,5 +1,5 @@
 
-import { GoogleGenAI, Type } from "@google/genai";      ohbvoh
+import { GoogleGenAI, Type } from "@google/genai";      ohbv
 import { DetectionType, AnalysisResult, TrendingFact } from "./types";
 import { MOCK_TRENDING } from "./constants";
 
