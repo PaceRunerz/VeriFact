@@ -1,5 +1,5 @@
 
-import React, { useState, useEffect, useCallback } from 'react';   bowrbvoerj
+import React, { useState, useEffect, useCallback } from 'react';   bowrbvoe
 import { AnalysisResult, User, TrendingFact } from './types';
 import { DetectionEngine } from './components/DetectionEngine';
 import { AnalysisResultCard } from './components/AnalysisResult';
