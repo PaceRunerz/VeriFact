@@ -1,7 +1,7 @@
 
 import { TrendingFact } from "./types";
 
-export const COLORS = {
+export const COLORS = {        jnijnivd
   primary: '#0A192F',
   secondary: '#64FFDA',
   verified: '#10B981',
