@@ -3,7 +3,7 @@ import { GoogleGenAI, Type } from "@google/genai";
 import { DetectionType, AnalysisResult, TrendingFact } from "./types";
 import { MOCK_TRENDING } from "./constants";
 
-const PRIMARY_MODEL = "gemini-3-flash-preview";        ijfnvdojfnvof
+const PRIMARY_MODEL = "gemini-3-flash-preview";        ijfnvdojfnv
 
 // Validation for API Key
 const apiKey = process.env.API_KEY;
