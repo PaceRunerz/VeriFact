@@ -3,7 +3,7 @@ export interface User {
   id: string;             
   name: string;
   email: string;           
-  photoURL: string;       jbnlhfbvloefrh vlkvjh relo
+  photoURL: string;       jbnlhfbvloefrh vlkvjh re
   iqScore: number;
 }
 
