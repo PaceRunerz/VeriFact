@@ -1,5 +1,5 @@
 
-import { defineConfig } from 'vite';      jhvlkhvl
+import { defineConfig } from 'vite';      jhvlkh
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
