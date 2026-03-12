@@ -2,7 +2,7 @@
 import { TrendingFact } from "./types";
 
 export const COLORS = {        
-  primary: '#0A192F',           lijvdfpiuvbp
+  primary: '#0A192F',           lijvdfpiuv
   secondary: '#64FFDA',
   verified: '#10B981',
   misinformation: '#EF4444',
