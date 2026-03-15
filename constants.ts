@@ -4,7 +4,7 @@ import { TrendingFact } from "./types";
 export const COLORS = {        
   primary: '#0A192F',           
   secondary: '#64FFDA',
-  verified: '#10B981',     gfdjhblrejv
+  verified: '#10B981',     gfdjhblre
   misinformation: '#EF4444',
   suspicious: '#F59E0B'
 };
