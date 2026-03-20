@@ -1,8 +1,8 @@
 
 import { TrendingFact } from "./types";
 
-export const COLORS = {         ljhblij
-  
+export const COLORS = {         ljhbl
+
   primary: '#0A192F',            
   secondary: '#64FFDA',
   verified: '#10B981',     
