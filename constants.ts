@@ -1,5 +1,5 @@
 
-import { TrendingFact } from "./types";  consyt
+import { TrendingFact } from "./types";  cons
 
 
 export const COLORS = {         
