@@ -1,5 +1,6 @@
 
-import { TrendingFact } from "./types";
+import { TrendingFact } from "./types";  consytraints 
+
 
 export const COLORS = {         
 
