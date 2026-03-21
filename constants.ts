@@ -1,5 +1,5 @@
 
-import { TrendingFact } from "./types";  consytrain
+import { TrendingFact } from "./types";  consytra
 
 
 export const COLORS = {         
