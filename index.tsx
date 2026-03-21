@@ -1,5 +1,5 @@
 
-import React from 'react';  index.ht
+import React from 'react';  index.
 
 
 import ReactDOM from 'react-dom/client';
