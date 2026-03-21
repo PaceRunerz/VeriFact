@@ -1,6 +1,5 @@
 
-import React from 'react';  index.
-
+import React from 'react';  inde
 
 import ReactDOM from 'react-dom/client';
 import App from './App';
