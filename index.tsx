@@ -1,5 +1,5 @@
 
-import React from 'react';  inde
+import React from 'react';  in
 
 import ReactDOM from 'react-dom/client';
 import App from './App';
