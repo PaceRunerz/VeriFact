@@ -1,6 +1,7 @@
 
 import React, { useState, useEffect, useCallback } from 'react';   
-import { AnalysisResult, User, TrendingFact } from './types';    ir
+import { AnalysisResult, User, TrendingFact } from './types';    i
+
 import { DetectionEngine } from './components/DetectionEngine';
 import { AnalysisResultCard } from './components/AnalysisResult';
 import { TrendingSidebar } from './components/TrendingSidebar';
