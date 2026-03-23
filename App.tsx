@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect, useCallback } from 'react';   
-import { AnalysisResult, User, TrendingFact } from './types';    irub
+import { AnalysisResult, User, TrendingFact } from './types';    iru
 import { DetectionEngine } from './components/DetectionEngine';
 import { AnalysisResultCard } from './components/AnalysisResult';
 import { TrendingSidebar } from './components/TrendingSidebar';
