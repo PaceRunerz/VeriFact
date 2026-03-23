@@ -2,7 +2,7 @@
 import React from 'react';  
 
 import ReactDOM from 'react-dom/client';
-import App from './App';   jhbsfv
+import App from './App';   jhbsf
      
 const rootElement = document.getElementById('root');      
 if (!rootElement) {
