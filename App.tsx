@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect, useCallback } from 'react';   
-import { AnalysisResult, User, TrendingFact } from './types';    irubsflu
+import { AnalysisResult, User, TrendingFact } from './types';    irubsf
 import { DetectionEngine } from './components/DetectionEngine';
 import { AnalysisResultCard } from './components/AnalysisResult';
 import { TrendingSidebar } from './components/TrendingSidebar';
