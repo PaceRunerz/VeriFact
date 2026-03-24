@@ -1,7 +1,7 @@
 
 import { GoogleGenAI, Type } from "@google/genai";      
 import { DetectionType, AnalysisResult, TrendingFact } from "./types";
-import { MOCK_TRENDING } from "./constants";    iug
+import { MOCK_TRENDING } from "./constants";    iu
 
 
 const PRIMARY_MODEL = "gemini-3-flash-preview";        
