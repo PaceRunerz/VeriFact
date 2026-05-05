@@ -1,5 +1,5 @@
 
-import { GoogleGenAI, Type } from "@google/genai";      kn
+import { GoogleGenAI, Type } from "@google/genai";      k
 import { DetectionType, AnalysisResult, TrendingFact } from "./types";
 import { MOCK_TRENDING } from "./constants";    
 
