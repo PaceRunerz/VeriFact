@@ -1,5 +1,5 @@
 
-import { TrendingFact } from "./types";  j
+import { TrendingFact } from "./types";  
 
 export const COLORS = {         
 
