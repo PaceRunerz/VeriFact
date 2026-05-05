@@ -1,5 +1,5 @@
 
-import { TrendingFact } from "./types";  jbv
+import { TrendingFact } from "./types";  jb
 
 export const COLORS = {         
 
