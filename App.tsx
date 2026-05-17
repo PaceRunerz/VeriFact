@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect, useCallback } from 'react';   
-import { AnalysisResult, User, TrendingFact } from './types';    s
+import { AnalysisResult, User, TrendingFact } from './types';    
 
 
 import { DetectionEngine } from './components/DetectionEngine';
